@@ -427,5 +427,9 @@ return [
             // default locale
             'default' => 'ru-RU',
         ],
+        'file-manager' => [
+            // Select a local disk that you configured in `config/filesystem.php`
+            'disk' => 'local'
+        ],
     ],
 ];

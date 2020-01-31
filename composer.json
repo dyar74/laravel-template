@@ -20,6 +20,7 @@
         "jxlwqq/code-mirror": "^1.0",
         "jxlwqq/composer-viewer": "^1.0",
         "jxlwqq/env-manager": "^0.1.0",
+        "jxlwqq/file-manager": "^1.0",
         "laravel-admin-ext/backup": "dev-patch-1",
         "laravel-admin-ext/config": "^1.1",
         "laravel-admin-ext/helpers": "^1.2",

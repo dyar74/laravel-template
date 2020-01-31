@@ -29,6 +29,7 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/jxlwqq/code-mirror" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/jxlwqq/composer-viewer" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/jxlwqq/env-manager" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/jxlwqq/file-manager" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/laravel-admin-ext/backup" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/laravel-admin-ext/config" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/laravel-admin-ext/helpers" />
